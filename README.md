@@ -1,4 +1,4 @@
-# Introductory Course of Machine Learning.
+# Labs from the introductory course of Machine Learning.
 
 ### Topics: 
 

@@ -53,4 +53,4 @@
 	- Lab 6.2:
 		>  Feature Reduction: 
 		Principal Component Analysis (PCA) & Linear Discriminant Analysis (LDA)
-# Basic_ML
+
